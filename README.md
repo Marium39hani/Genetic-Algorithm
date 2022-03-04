@@ -12,17 +12,22 @@ and they are used in self-learning machine learning algorithms and AI. They use 
 concept of natural selection to simulate the survival of the fittest and natural selection
 inside your computer.
 3) MODULES:
+
 *genetic_algo
 genetic_algo.py uses the approach to find the best solution for a given Knapsack problem
 using the genetic algorithm
+
 *knapsack
 It contains all problem-specific parts related to the Knapsack problems, like the definition
 of ‘ Things’ and the problem-specific fitness function for the genetic algorithm.
+
 *Analyze
 simply contains a utility function we wrote ourselves to measure time using a context
 manager.
+
 *Genetic_time
 Tells the needed time a genetic algorithm needs for a given number of items.
+
 *Genetic
 Inside this module, you find the non-problem-specific parts of the implementation of the
 genetic algorithm.

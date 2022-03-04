@@ -1,9 +1,9 @@
 # Genetic-Algorithm
 FOR SOLVING KNAPSACK PROBLEM
-1) Overview
+1) Overview: 
 In this project, we will implement our first example of a genetic algorithm to solve the
 knapsack problem in python. We haven't used any libraries..
-2) Goals
+2) Goals: 
 Did you know that you can simulate evolution inside the computer? And that you can solve
 really really hard problems this way? We have tried to solve one historic problem in
 computer science by example: The Knapsack problem.
